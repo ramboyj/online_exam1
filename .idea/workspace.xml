@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="013de7c2-b9b8-45d4-8ddc-ec04cb414aaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_ben_manes_caffeine_caffeine_2_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_13_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_1_2_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_8_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_1_3_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_base_1_0_4_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_core_1_0_4_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_0_4_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_0_4_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_0_3_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_0_3_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/blackboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/chaxun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/headimg_placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/kaowu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/lixiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_ai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_algorithm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_bigdata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_c++.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_computer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_database.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_datastructures.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_digitalcircuits.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_graphic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_internetofthings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_networld.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_os.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_python.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/problemset_softwareTest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/sushe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/sutuo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/tushuguan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/xinximenhu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/xuefei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/data/springboot-penguin/upload/images/xuegong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/spring.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online_exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql/db_qexz_penguin.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/common/QexzConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/config/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/config/DruidConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/config/QexzWebMvcConfigurerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/config/SessionConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/ContestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/DefaultController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/GradeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/ManageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/QuestionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/ReplyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/SubjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/CommentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/ContestMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/GradeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/PostMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/QuestionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/ReplyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/SubjectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/dto/PageResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/exception/ERRORCODE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/exception/QexzWebException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Contest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Reply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/model/example/UserExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/ContestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/GradeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/ReplyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/SubjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/CommentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/ContestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/GradeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/PostServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/QuestionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/ReplyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/SubjectServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/onlineExam/util/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/LngAndLatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/test/SnCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ContestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GradeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/PostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/QuestionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ReplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/SubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/contest/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/contest/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/manage/manage-app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/manage/manage-editContestProblem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/manage/manage-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/problem/problemdetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/problem/problemlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/problem/problemset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/user/myDiscussPost.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/user/myExam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/user/password.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/user/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/logo_flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/manage-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/img/tfans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/adminApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/contest/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/contest/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/discuss/discuss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/discuss/discussDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/discuss/postDiscuss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-accountList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-commentBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-contestBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-editContestProblem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-postBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-questionBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-resultContestBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-resultStudentBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/manage/manage-subjectBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/problem/problemdetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/problem/problemlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/problem/problemset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/user/myDiscussPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/user/myExam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/user/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/user/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/bootstrap-datetimepicker-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contest/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/contest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-accountList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-commentBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-contestBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-editContestProblem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-questionBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-resultContestBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-resultStudentBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/manage/manage-subjectBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/problem/problemdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/problem/problemlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/problem/problemset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/myDiscussPost.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/myExam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/user/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/onlineExam/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/onlineExam/service/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/onlineExam/service/ContestServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/onlineExam/service/SubjectServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/Application$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/ServletInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/common/QexzConst.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/CorsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/DruidConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/QexzWebMvcConfigurerAdapter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/RedisConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/config/SessionConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/DefaultController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/GradeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/ManageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/PostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/QuestionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/ReplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/SubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/CommentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/ContestMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/GradeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/PostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/QuestionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/ReplyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/SubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/dto/PageResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/exception/ERRORCODE.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/exception/QexzWebException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Comment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Contest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Reply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/example/UserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/example/UserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/example/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/model/example/UserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/CommentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/ContestService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/GradeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/PostService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/QuestionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/ReplyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/SubjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/CommentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/ContestServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/GradeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/PostServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/QuestionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/ReplyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/SubjectServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/onlineExam/util/MD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/LngAndLatUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/test/SnCal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/CommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ContestMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GradeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/PostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/QuestionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ReplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/bootstrap-datetimepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/contest/detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/contest/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/manage/manage-app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/manage/manage-editContestProblem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/manage/manage-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/problem/problemdetail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/problem/problemlist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/problem/problemset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/user/myDiscussPost.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/user/myExam.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/user/password.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/user/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/404.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/logo_flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/manage-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/tfans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/adminApp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/contest/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/contest/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/discuss/discuss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/discuss/discussDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/discuss/postDiscuss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-accountList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-commentBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-contestBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-editContestProblem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-postBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-questionBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-resultContestBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-resultStudentBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/manage/manage-subjectBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/problem/problemdetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/problem/problemlist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/problem/problemset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/user/myDiscussPost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/user/myExam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/user/password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/user/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/bootstrap-datetimepicker-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/contest/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/contest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-accountList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-commentBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-contestBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-editContestProblem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-questionBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-resultContestBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-resultStudentBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/manage/manage-subjectBoard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/problem/problemdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/problem/problemlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/problem/problemset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/myDiscussPost.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/myExam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/onlineExam/ApplicationTests.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/onlineExam/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLErrorReporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="399" column="29" selection-start-line="399" selection-start-column="29" selection-end-line="399" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="210" />
+    <option name="width" value="1626" />
+    <option name="height" value="1104" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="onlineExam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online_exam" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.czbank.onlineExam-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="online_exam" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.onlineExam.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013de7c2-b9b8-45d4-8ddc-ec04cb414aaa" name="Default Changelist" comment="" />
+      <created>1564056368193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564056368193</updated>
+      <workItem from="1564056371369" duration="1919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29142857" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="SVN Repositories" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.76536316" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/onlineExam/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/com/sun/org/apache/xerces/internal/jaxp/SAXParserImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="642" column="18" selection-start-line="642" selection-start-column="18" selection-end-line="642" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/com/sun/org/apache/xerces/internal/parsers/AbstractSAXParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1212" column="12" selection-start-line="1212" selection-start-column="12" selection-end-line="1212" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/com/sun/org/apache/xerces/internal/impl/XMLErrorReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="399" column="29" selection-start-line="399" selection-start-column="29" selection-end-line="399" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
